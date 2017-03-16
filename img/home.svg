@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="38px" viewBox="0 0 24 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="23px" height="38px" viewBox="0 0 23 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 12</title>
+    <title>Group 6</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <path d="M6.65853659,14.7433278 C6.65853659,12.6208499 8.38273533,10.9002416 10.5,10.9002416 L10.5,10.9002416 C12.6215817,10.9002416 14.3414634,12.6107175 14.3414634,14.7433278 L14.3414634,22.8386014 L6.65853659,22.8386014 L6.65853659,14.7433278 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.68292683" height="11.9383598" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M1.02439024,9.59830595 L1.02439024,21.8434273 C1.02439024,22.3930468 1.48018888,22.8386014 2.01575228,22.8386014 L18.4720526,22.8386014 C19.0195667,22.8386014 19.4634146,22.3940216 19.4634146,21.8342748 L19.4634146,9.47653655" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.4390244" height="13.3620648" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Hom-page-ver.2" transform="translate(-25.000000, -620.000000)">
-            <g id="Group-12" transform="translate(25.000000, 621.000000)">
-                <text id="HOME" font-family="Roboto-Bold, Roboto" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#41AD86">
-                    <tspan x="0.42956543" y="36">HOME</tspan>
-                </text>
-                <path d="M3.50411962,19.0050273 L3.50411962,7.58515665 L20.6837216,7.58515665 L20.6837216,19.0050273 C20.6837216,19.5581492 20.2369446,20 19.6858171,20 L4.5020241,20 C3.94605041,20 3.50411962,19.5545356 3.50411962,19.0050273 Z M11.1705555,0.236064562 C11.6284012,-0.0784530422 12.3700313,-0.0789232448 12.8285615,0.236064562 L22.6976889,7.01567215 C23.1555346,7.33018975 23.0867385,7.58515665 22.5360789,7.58515665 L1.46303817,7.58515665 C0.915937703,7.58515665 0.842897955,7.33065995 1.30142815,7.01567215 L11.1705555,0.236064562 Z" id="Combined-Shape" stroke="#41AD86"></path>
+        <g id="Hom-page-ver.2" transform="translate(-26.000000, -620.000000)">
+            <g id="Group-4" transform="translate(0.000000, 612.000000)">
+                <g id="Group-6" transform="translate(26.000000, 9.000000)">
+                    <g id="Group-17">
+                        <g id="Group-20">
+                            <text id="HOME" font-family="SanFranciscoDisplay-Bold, San Francisco Display" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#45A381">
+                                <tspan x="0.412963867" y="36">HOME</tspan>
+                            </text>
+                            <g id="Group-2" transform="translate(1.000000, 0.000000)" stroke="#45A381">
+                                <g id="Group">
+                                    <polygon id="Combined-Shape" stroke-linecap="round" stroke-linejoin="round" points="0 8.21167753 10.1720626 0 20.6590576 8.21167753 20.6590576 10.5862209 10.1720626 2.72949571 0 10.5862209"></polygon>
+                                    <use id="Rectangle-2" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                                    <use id="Path-3" mask="url(#mask-4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
             </g>
         </g>
     </g>

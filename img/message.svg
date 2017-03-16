@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="36px" height="38px" viewBox="0 0 36 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 13</title>
+    <title>Group 16</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Hom-page-ver.2" transform="translate(-213.000000, -620.000000)">
-            <g id="Group-13" transform="translate(212.666667, 621.000000)">
-                <text id="MESSAGE" font-family="Roboto-Bold, Roboto" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#474747">
-                    <tspan x="0.706054688" y="36">MESSAGE</tspan>
-                </text>
-                <path d="M14.54125,16.7070874 C14.51375,16.8334435 14.5,16.9457601 14.5,17.0721162 L14.5,20.076584 C14.5,21.087433 15.20125,21.1576308 15.91625,20.4416128 L20,16.8474831 L22.5025,16.8474831 C27.19125,16.8474831 31,13.0287202 31,8.31142498 C31,3.59412972 27.19125,0 22.5025,0 L17.4975,0 C12.80875,7.98057114e-14 9,3.81876283 9,8.53605809 C9,12.3829001 11.04875,15.6541197 14.54125,16.7070874 Z" id="Shape" stroke="#474748"></path>
+        <g id="Hom-page-ver.2" transform="translate(-214.000000, -620.000000)">
+            <g id="Group-4" transform="translate(0.000000, 612.000000)">
+                <g id="Group-16" transform="translate(214.000000, 9.000000)">
+                    <g id="Group-15">
+                        <text id="MESSAGE" font-family="SanFranciscoDisplay-Bold, San Francisco Display" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#474747">
+                            <tspan x="0.564819336" y="36">MESSAGE</tspan>
+                        </text>
+                        <g id="Group" transform="translate(8.000000, 0.000000)">
+                            <path d="M5.50976563,16.7733853 C5.48242187,16.9002429 5.46875,17.0130051 5.46875,17.1398627 L5.46875,20.156253 C5.46875,21.1711133 6.16601562,21.2415897 6.87695313,20.5227303 L10.9375,16.9143382 L13.4257812,16.9143382 C18.0878906,16.9143382 21.875,13.0804215 21.875,8.34440683 C21.875,3.60839214 18.0878906,0 13.4257812,0 L8.44921875,0 C3.78710938,8.01224008e-14 0,3.83391665 0,8.56993134 C0,12.4320386 2.03710938,15.7162392 5.50976563,16.7733853 Z" id="Shape" stroke="#474748"></path>
+                            <path d="M5.75480769,6.5625 L17.9121868,6.5625" id="Line" stroke="#474747" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M5.73611111,9.1875 L13.5138889,9.1875" id="Line-Copy" stroke="#474747" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
             </g>
         </g>
     </g>
