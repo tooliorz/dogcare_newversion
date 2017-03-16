@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="38px" viewBox="0 0 24 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hom-page-ver.2" transform="translate(-25.000000, -620.000000)">
+            <g id="Group-12" transform="translate(25.000000, 621.000000)">
+                <text id="HOME" font-family="Roboto-Bold, Roboto" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#41AD86">
+                    <tspan x="0.42956543" y="36">HOME</tspan>
+                </text>
+                <path d="M3.50411962,19.0050273 L3.50411962,7.58515665 L20.6837216,7.58515665 L20.6837216,19.0050273 C20.6837216,19.5581492 20.2369446,20 19.6858171,20 L4.5020241,20 C3.94605041,20 3.50411962,19.5545356 3.50411962,19.0050273 Z M11.1705555,0.236064562 C11.6284012,-0.0784530422 12.3700313,-0.0789232448 12.8285615,0.236064562 L22.6976889,7.01567215 C23.1555346,7.33018975 23.0867385,7.58515665 22.5360789,7.58515665 L1.46303817,7.58515665 C0.915937703,7.58515665 0.842897955,7.33065995 1.30142815,7.01567215 L11.1705555,0.236064562 Z" id="Combined-Shape" stroke="#41AD86"></path>
+            </g>
+        </g>
+    </g>
+</svg>

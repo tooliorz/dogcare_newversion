@@ -1,0 +1,356 @@
+/*
+ * Globals
+ */
+
+/* Links */
+
+
+
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: #fff;
+  border: 1px solid #fff;
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #fff;
+}
+body {
+  color: #474747;
+  text-align: center;
+/*  text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
+}
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+
+  background-image: url("../img/login.png");
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  display: table;
+  min-height: 100%;
+  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  padding-top: 140px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.cover-content{
+  width: 100%;
+}
+
+/* Padding for spacing 
+.inner {
+  padding: 60px;
+}
+
+
+/*
+ * Header
+ */
+.masthead-brand {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.masthead-nav > li {
+  display: inline-block;
+}
+.masthead-nav > li + li {
+  margin-left: 20px;
+}
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* IE8 proofing */
+  color: rgba(255,255,255,.75);
+  border-bottom: 2px solid transparent;
+}
+.masthead-nav > li > a:hover,
+.masthead-nav > li > a:focus {
+  background-color: transparent;
+  border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);
+}
+.masthead-nav > .active > a,
+.masthead-nav > .active > a:hover,
+.masthead-nav > .active > a:focus {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+}
+
+
+/*
+ * Cover
+ */
+
+.form-signin{
+  padding-top: 60px;
+}
+
+
+input#inputEmail,
+input#inputPassword{
+  color:#fff;
+  opacity: 0.3;
+  border: none;
+  margin-bottom: 10px;
+  border-radius:0;
+  padding: 20px 12px;
+
+}
+
+.loginbox{
+  padding-top: 40px;
+}
+
+
+.cover {
+  padding: 0 40px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+/*buttoms*/
+/*.btn-primary{
+    color: #fff;
+    background-color: #E9BF63;
+    border-color: #E9BF63;
+    border-radius:0;
+}*/
+
+span{
+  color: #F3CB73;
+}
+
+
+/*
+ * Footer
+ */
+
+.mastfoot {
+  color: #999; /* IE8 proofing */
+  color: rgba(255,255,255,.5);
+}
+
+
+
+
+/*mainpage*/
+
+.main-wrapper {
+  background-color: white;
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: table;
+  min-height: 100%;
+  
+}
+.main-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-title {
+  width: 100%;
+  height: 65px;
+  background-color: #45A381;
+  margin-right: auto;
+  margin-left: auto;
+  position: fixed;
+  top:0;
+  z-index:1999;
+  box-shadow: 0 1px 2px 0 grey;
+}
+.introduce{
+  margin-top: 65px;
+  display: inline-block;
+}
+h1{
+ 
+  font-size: 16px;
+  margin: 28px 0 10px 0;
+}
+
+h2{
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+p{
+   color: white;
+}
+.row{
+  margin: 0;
+  width: 100%;
+  padding:0;
+}
+
+.col-md-4{
+  margin: 0 4px 4px 4px;
+  height: 155px;
+  background-color: #fff;
+}
+
+#img-a{
+  background-image: url("../img/a.png");
+  background-size: cover;
+}
+
+#img-b{
+  background-image: url("../img/b.png");
+  background-size: cover;
+}
+
+#img-c{
+  background-image: url("../img/c.png");
+  background-size: cover;
+}
+
+#img-d{
+  background-image: url("../img/a.png");
+  background-size: cover;
+}
+
+#img-e{
+  background-image: url("../img/b.png");
+  background-size: cover;
+}
+
+.box{
+  padding-top: 35px;
+
+}
+.cover-footer{
+  padding-top: 10px;
+  width: 100%;
+  height: 55px;
+  background-color: #fff;
+  margin-right: auto;
+  margin-left: auto;
+  position: fixed;
+  bottom:0;
+  z-index:1999;
+  border-style: solid;
+  border-width: 1px 0 0 0;
+  border-color: rgba(77,77,77,0.5);
+}
+
+
+/*listpage*/
+
+
+.cover-title-list {
+  width: 100%;
+  height: 110px;
+  background-color: #45A381;
+  margin-right: auto;
+  margin-left: auto;
+  position: fixed;
+  top:0;
+  z-index:1999;
+  box-shadow: 0 1px 2px 0 grey;
+}
+
+.back{
+  float: left;
+  padding: 38px 0 0 15px;
+
+}
+
+.filter{
+  float: right;
+  padding: 38px 15px 0 0;
+}
+
+.tabs{
+  margin-top: 25px;
+}
+
+h4{
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 38px;
+  color: white;
+}
+
+a{
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Pull out the header and footer */
+  .masthead {
+    position: fixed;
+    top: 0;
+  }
+  .mastfoot {
+    position: fixed;
+    bottom: 0;
+  }
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle;
+  }
+  /* Handle the widths */
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+}
+
+@media (min-width: 992px) {
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 700px;
+  }
+}

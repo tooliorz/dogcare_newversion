@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hom-page-ver.2" transform="translate(-213.000000, -620.000000)">
+            <g id="Group-13" transform="translate(212.666667, 621.000000)">
+                <text id="MESSAGE" font-family="Roboto-Bold, Roboto" font-size="7.5" font-weight="bold" letter-spacing="0.46875" fill="#474747">
+                    <tspan x="0.706054688" y="36">MESSAGE</tspan>
+                </text>
+                <path d="M14.54125,16.7070874 C14.51375,16.8334435 14.5,16.9457601 14.5,17.0721162 L14.5,20.076584 C14.5,21.087433 15.20125,21.1576308 15.91625,20.4416128 L20,16.8474831 L22.5025,16.8474831 C27.19125,16.8474831 31,13.0287202 31,8.31142498 C31,3.59412972 27.19125,0 22.5025,0 L17.4975,0 C12.80875,7.98057114e-14 9,3.81876283 9,8.53605809 C9,12.3829001 11.04875,15.6541197 14.54125,16.7070874 Z" id="Shape" stroke="#474748"></path>
+            </g>
+        </g>
+    </g>
+</svg>
